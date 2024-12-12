@@ -103,3 +103,15 @@ Jika pilihan tidak valid, tampilkan pesan error dan kembali ke menu.
 #
 
 B.CODE PROGRAM
+
+![image](https://github.com/user-attachments/assets/f45780fa-de35-4da3-80ee-0315cb9da47d)
+
+
+![image](https://github.com/user-attachments/assets/32b09a5d-5554-4525-974c-f6ca43eaa62e)
+
+#
+
+C. HASIL RUNNING PROGRAM
+
+
+![TUGAS 2](https://github.com/user-attachments/assets/234d29d3-53a8-4719-881f-398cf1ac4844)
