@@ -99,3 +99,7 @@ Jika pilihan adalah 4, minta nama mahasiswa untuk diubah nilai-nya dan panggil m
 Jika pilihan adalah 5, keluar dari program.
 
 Jika pilihan tidak valid, tampilkan pesan error dan kembali ke menu.
+
+#
+
+B.CODE PROGRAM
